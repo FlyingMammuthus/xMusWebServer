@@ -1,5 +1,5 @@
 # xMusWebServer
-A simple http web server
+实现简单的http web服务器。
 
 # 使用教程
 依次输入命令
