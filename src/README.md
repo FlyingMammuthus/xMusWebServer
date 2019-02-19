@@ -1,1 +1,1 @@
-This a simple http web server with high performance.
+This is a web server with reactor model.
