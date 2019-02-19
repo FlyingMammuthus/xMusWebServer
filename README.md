@@ -1,5 +1,5 @@
 # xMusWebServer
-实现简单的http web服务器。
+实现基于Reactor模式的高性能http web服务器。
 
 # 使用教程
 依次输入命令
