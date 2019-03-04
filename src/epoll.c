@@ -1,5 +1,5 @@
 /* epoll.c:
- * epoll
+ * define wrapping function with epoll
  */
 
 #include "epoll.h"
