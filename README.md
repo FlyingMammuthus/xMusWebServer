@@ -30,6 +30,6 @@ v1.1.0
 因而，本服务器采用epoll监听和注册事件，单独的线程池执行事件，由此实现了Reactor模式。
 
 # 函数调用
-右键在新标签中打开图片，以此查看放大图片。
+(v1.0.0的函数调用)右键在新标签中打开图片，以此查看放大图片。
 ![imag](https://github.com/FlyingMammuthus/xMusWebServer/blob/master/callTree/function%20calling%20tree.jpg)
 
